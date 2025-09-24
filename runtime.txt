@@ -1,0 +1,6 @@
+{
+ "runtime": {
+   "name": "python",
+   "version": "3.10"
+ }
+}

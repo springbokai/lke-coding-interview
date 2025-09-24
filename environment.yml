@@ -1,0 +1,10 @@
+name: legal-coding-challenge
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - pip
+  - pip:
+    - pydantic>=2.0.0
